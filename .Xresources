@@ -1,0 +1,13 @@
+! Rofi
+rofi.bw: 0
+rofi.font: monospace 12
+rofi.padding: 0
+rofi.line-padding: 0
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+rofi.color-window: #CC2F343F, #CCFFFFFF, #CCFFFFFF
+rofi.color-normal: #CC2F343F, #CCFFFFFF, #CC000000, #CCFFFFFF, #CC2F343F
+rofi.color-urgent: argb:EE000000, #f43753, argb:EE000000, argb:EE000000, #e29a49
+rofi.color-active: argb:EE000000, #49bbfb, argb:EE000000, argb:EE000000, #e29a49
+rofi.kb-cancel: Escape,Alt+F1
